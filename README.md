@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Ay7ot
+- 👋 Hi, I’m @Spandor
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on any Front End development Project
 - 📫 How to reach me ayomidotzee@gmail.com
 
