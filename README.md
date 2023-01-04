@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Spandor
+- 👋 Hi, I’m @Aydot
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on any Front End development Project
