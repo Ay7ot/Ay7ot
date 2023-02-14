@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ayomide Ibiteye</h1>
 <h3 align="center">Crafting elegant solutions with code and creativity</h3>
-<img src='https://miro.medium.com/v2/resize:fit:720/1*IRGHmiGsa16stedQvIaZfw.gif'>
+<img align='right' width='400' src='https://miro.medium.com/v2/resize:fit:720/1*IRGHmiGsa16stedQvIaZfw.gif'>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ay7ot&label=Profile%20views&color=0e75b6&style=flat" alt="ay7ot" /> </p>
 
