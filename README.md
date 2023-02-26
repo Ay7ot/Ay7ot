@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Musica Spotify](https://github.com/Ay7ot/musica-typescript)
 
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently learning **Firebase**
 
 - 👨‍💻 All of my projects are available at [https://aydot-portfolio.netlify.app/](https://aydot-portfolio.netlify.app/)
 
