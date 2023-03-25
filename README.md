@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://aydot-portfolio.netlify.app/](https://aydot-portfolio.netlify.app/)
 
-- 💬 Ask me about **React, TailwindCSS, Javascript**
+- 💬 Ask me about **React, Typescript, TailwindCSS, Javascript**
 
 - 📫 How to reach me **ayomidotzee@gmail.com**
 
