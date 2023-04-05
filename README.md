@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Cloud Functions**
 
-- 👨‍💻 All of my projects are available at [https://aydot-portfolio.netlify.app/](https://aydot-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://aydot-portfolio.netlify.app/](https://aydot.netlify.app/)
 
 - 💬 Ask me about **React, Typescript, TailwindCSS, Javascript**
 
