@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [ProTaskMate](https://github.com/Ay7ot/protaskmate)
 
-- 🌱 I’m currently learning **Cloud Functions**
+- 🌱 I’m currently learning **Nodejs**
 
 - 👨‍💻 All of my projects are available at [https://aydot-portfolio.netlify.app/](https://aydot.netlify.app/)
 
