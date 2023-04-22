@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Nodejs**
 
-- 👨‍💻 All of my projects are available at [https://aydot-portfolio.netlify.app/](https://aydot.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://aydot.web.app/](https://aydot.web.app/)
 
 - 💬 Ask me about **React, Typescript, TailwindCSS, Javascript**
 
