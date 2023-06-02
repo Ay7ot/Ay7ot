@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [ProTaskMate](https://github.com/Ay7ot/protaskmate)
 
-- 🌱 I’m currently learning **ExpressJS**
+- 🌱 I’m currently learning **unit testing**
 
 - 👨‍💻 All of my projects are available at [https://aydot.web.app/](https://aydot.web.app/)
 
