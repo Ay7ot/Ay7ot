@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Product Feedback](https://github.com/Ay7ot/ProductFeedback)
 
-- 🌱 I’m currently learning **unit testing**
+- 🌱 I’m currently learning **Expressjs**
 
 - 👨‍💻 All of my projects are available at [https://aydot.web.app/](https://aydot.web.app/)
 
