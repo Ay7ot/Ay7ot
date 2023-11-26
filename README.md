@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ay7ot&label=Profile%20views&color=0e75b6&style=flat" alt="ay7ot" /> </p>
 
-<p align="left"> <a href="https://twitter.com/ay7ot" target="blank"><img src="https://img.shields.io/twitter/follow/ay7ot?logo=twitter&style=for-the-badge" alt="ay7ot" /></a> </p>
+<p align="left"> <a href="https://twitter.com/TeyeAyo" target="blank"><img src="https://img.shields.io/twitter/follow/TeyeAyo?logo=twitter&style=for-the-badge" alt="TeyeAyo" /></a> </p>
 
 - 🔭 I’m currently working on [Resumate](https://github.com/Ay7ot/resumate)
 
