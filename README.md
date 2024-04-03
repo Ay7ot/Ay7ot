@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Expressjs**
 
-- 👨‍💻 All of my projects are available at [https://teyeayo.web.app/](https://teyeayo.web.app/)
+- 👨‍💻 All of my projects are available at [https://teyeayo.info](https://teyeayo.info/)
 
 - 💬 Ask me about **React, Typescript, TailwindCSS, Javascript**
 
